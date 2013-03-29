@@ -4,13 +4,13 @@ name := "pdfdump"
 
 version := "1.0"
 
-organization := "com.izumobase"
+organization := "com.yanolab"
 
 scalaVersion := "2.9.2"
 
 assemblySettings
 
-mainClass in assembly := Some("com.izumobase.pdf.Main")
+mainClass in assembly := Some("com.yanolab.pdf.Main")
 
 libraryDependencies ++= Seq(
 		    "log4j" % "log4j" % "1.2.17",
