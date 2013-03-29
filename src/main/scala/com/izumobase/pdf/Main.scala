@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.izumobase.pdf
+package com.yanolab.pdf
 
 import com.lowagie.text.pdf.PdfReader
 import java.io.File
